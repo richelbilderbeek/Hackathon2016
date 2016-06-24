@@ -10,7 +10,7 @@ Kosten: afhankelijk van sponsoring, anders kostprijs van eten en drinken
 ## Planning 
 
 Begintijd|Activiteit deelnemers|Activiteit begeleiders
----|---
+---|---|---
 9:00| - |gebouw open, opbouwen
 9:45|deur open, ontvangst goodiebag|gastheer/vrouw aanwezig, koffie, uitreiken goodiebag
 10:15|opening|bekendmaking thema/doel, vorm, etc

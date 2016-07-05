@@ -1,6 +1,6 @@
 # Hackathon2016
 
-Hackathon organized by DJO and Fablab in the summer holiday of 2016
+Hackathon georganiseerd de DJO en Fablab in de zomervakantie van 2016.
 
  * Wat: Hackathon voor leerlingen van 8-18 jaar
  * Wanneer: zondag 14 augustus 2016 10:00-18:00
@@ -8,6 +8,8 @@ Hackathon organized by DJO and Fablab in the summer holiday of 2016
  * Kosten: afhankelijk van sponsoring, anders kostprijs van eten en drinken
 
 ## Planning 
+
+Huidig idee:
 
 Begintijd|Activiteit deelnemers|Activiteit begeleiders
 ---|---|---
@@ -31,7 +33,20 @@ Begintijd|Activiteit deelnemers|Activiteit begeleiders
 In het Lauchcafe aan de Herestraat 106 te Groningen.
 Wij gaan echter via de zijdeur naar binnen, aan de Herebinnensingel 2.
 
-[PLATTEGROND HIERO]
+Hier binnen Groningen:
+
+![Uitgezoomde plattegrond](PlattegrondUitzoom.png)
+
+Hier wat meer ingezoomd:
+
+![Ingezoomde plattegrond](PlattegrondInzoom.png)
+
+## Wat zijn de kosten?
+
+Dit is nog onbekend, maar wel een van deze opties:
+
+ * Nul euro: indien een sponsor de kosten op zich neemt
+ * Tien euro: kostprijs van het eten en drinken
 
 ## Ik ben een DJO leerling. Ben ik welkom?
 
@@ -79,4 +94,4 @@ Nee hoor, er is tijd om teams te vormen.
 Ja, er is draadloos internet in het gehele pand:
 
  * SSID: `LaunchCafe`
- * ww: krijg je bij binnenkomst
+ * Wactwoord krijg je bij binnenkomst

@@ -74,13 +74,9 @@ Nee hoor, er is tijd om teams te vormen.
 
  * [Hier (pdf)](Boekje.pdf) [TODO]
 
-## Waarom is deze GitHub (nog) gesloten?
-
-Omdat er een wifi wachtwoord op staat. 
-
 ## Is er internet?
 
 Ja, er is draadloos internet in het gehele pand:
 
  * SSID: `LaunchCafe`
- * ww: `Griningen`
+ * ww: krijg je bij binnenkomst

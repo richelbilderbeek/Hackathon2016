@@ -2,6 +2,10 @@
 
 Hackathon georganiseerd de DJO en Fablab in de zomervakantie van 2016.
 
+![Flyer](Flyer/Flyer.png)
+
+Deze GitHub is een werk in uitvoering.
+
  * Wat: Hackathon voor leerlingen van 8-18 jaar
  * Wanneer: zondag 14 augustus 2016 10:00-18:00
  * Waar: het *hele* Launchcafe, binnen via de zijdeur aan de Herebinnensingel 2
@@ -80,10 +84,6 @@ Nee hoor, er is tijd om teams te vormen.
 
  * Eten: er wordt een goodiebag uitgedeeld met redelijk gezond voedsel
  * Drinken: koffie, thee en ranja zijn ongelimiteerd 
-
-## Waar kan ik de flyer downloaden?
-
-![Flyer](Flyer/Flyer.png)
 
 ## Waar kan ik het programmaboekje downloaden?
 

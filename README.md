@@ -19,15 +19,15 @@ Begintijd|Activiteit deelnemers|Activiteit begeleiders
 ---|---|---
 9:00| - |gebouw open, opbouwen
 9:45|deur open, ontvangst goodiebag|gastheer/vrouw aanwezig, koffie, uitreiken goodiebag
-10:15|opening|bekendmaking thema/doel, vorm, etc
+10:15|opening|opening in VentureWorks collegezaal
 10:30|vorming groepen|groepsvorming begeleiden
-11:00|bekendmaking groepen, start hackathon|noteren groepen, begeleiden hackathon
+11:00|vastlegging groepen, start hackathon|noteren groepen, begeleiden hackathon
 15:00| - | presentatieruime klaarmaken
 16:00| - | technische doorloop met groepen?
 17:00|presentaties (5 minuten per groep)| - 
 17:45|?prijsuitreiking, afsluiting|?prijsuitreiking, afsluiting
 18:00|einde hackathon|opruimen
-18:30| - | deur dicht, evaluatie in kroeg
+18:30| - | deur dicht, evaluatie
 19:30| - | eind formele gedeelte
 
 ## Veelgestelde vragen
@@ -70,15 +70,63 @@ formeel gepresenteerd en beoordeeld worden.
 
 ## Werk je alleen of in een team?
 
-Je werkt in teams van minimaal twee en maximaal vijf personen.
+Je werkt in teams van precies vier personen.
 
-Tip: vorm een team van minstens een iemand van de donderdag (die 
-kunnen goed programmeren) en iemand van de vrijdag (die 
-zijn goed met electronica).
+Elk team bestaat uit precies vier personen:
+
+ * minstens 1x coach/teamcaptain: dit kan prima een meerderjarige zijn
+ * minstens 1x iemand die Arduino kan
+ * minstens 1x iemand die Processing kan
+
+Dit zijn drie verschillende personen.
+
+Je kunt je nu al opgeven op de GitHub, by 'Issues'.
 
 ## Ik ken niemand. Is dat een probleem?
 
 Nee hoor, er is tijd om teams te vormen.
+
+## Wie zijn de coaches?
+
+ * Carmen IJsebaart:
+ * Jan Kotlarski:
+ * ?Thijs van Beers:
+ * ?Mervin Koops
+ * ?Terrence
+
+## Wie zijn er nog meer?
+
+ * Richel Bilderbeek: Organisatie, BHV, maar kan ook Arduino en Processing
+ * Winand Slingenbergh: Organisatie, maar kan ook 3D printen en lasersnijden
+ * Kerensa Strijker: Organisatie, maar kan ook 3D printen en lasersnijden
+ * ?Mervin Koops: Organisatie, maar kan ook 3D printen en lasersnijden
+ * ?Terrence: Organisatie, maar kan ook 3D printen en lasersnijden
+
+
+## Wat is de opdracht?
+
+Er zijn meerdere opdrachten:
+
+ * Bedenk een oplossing om stroomverbruik te meten en te visualiseren
+ * Bedenk een oplossing om het klimaat van een ruimte te meten en visualiseren
+ * Bedenk een oplossing zodat er alleen parfum gesproeid wordt bij het toilet als het stinkt, en niet elke keer als de deur open gaat
+ * Bedenk een manier om de gordijnen automatisch open en dicht te laten gaan aan de hand van he donker het is en een manier om te visualiseren waneer dit gebeurd
+ * Bedenk een manier om te zien of de flex plekken bezet zijn en te visualiseren hoe vaak mensen koffie gaan halen en hoe vaak het druk is
+ * Bedenk een oplossing om te weten wanneer de planten water nodig hebben en hoe je dit visualiseert
+
+Je mag zelf een of meer opdrachten kiezen om te doen.
+
+## Wie is de jury?
+
+ * Een persoon van infotopics
+ * Een persoon van het Launchcafe
+ * Nog iemand ([Issue 7](https://github.com/richelbilderbeek/Hackathon2016/issues/7))
+
+## Wat is de prijs?
+
+Als je wint, zou het kunnen dat je je systeem ook echt mag gaan bouwen.
+Het Launchcafe betaalt dan alles wat je nodig hebt.
+En misschien halen we er ook de krant bij :-)
 
 ## Hoe zit het met eten en drinken?
 
@@ -87,11 +135,13 @@ Nee hoor, er is tijd om teams te vormen.
 
 ## Waar kan ik het programmaboekje downloaden?
 
- * [Hier (pdf)](Boekje.pdf) [TODO]
+ * (Ooit kan dat) [hier (pdf)](Boekje.pdf) [TODO]
 
 ## Is er internet?
 
 Ja, er is draadloos internet in het gehele pand:
 
  * SSID: `LaunchCafe`
- * Wactwoord krijg je bij binnenkomst
+ * Wachtwoord krijg je bij binnenkomst
+
+## Is er een BHV

@@ -86,13 +86,39 @@ Je kunt je nu al opgeven op de GitHub, by 'Issues'.
 
 Nee hoor, er is tijd om teams te vormen.
 
-## Wie zijn de coaches?
+## Wat zijn de teams?
 
- * Carmen IJsebaart:
- * Jan Kotlarski:
- * ?Thijs van Beers:
- * ?Mervin Koops
- * ?Terrence
+Er zijn nu vier teams. Je kunt je
+opgeven bij Richel, je teachcoach/teamcaptain
+of via de Issues van deze GitHubs
+
+### Team Carmen
+
+ * Coach: Carmen IJsebaart
+ * Arduino expert:
+ * Processing expert:
+ * Vrije keuze:
+
+### Team Jan
+
+ * Coach: Jan Kotlarski
+ * Arduino expert:
+ * Processing expert:
+ * Vrije keuze:
+
+### Team Noemie
+
+ * Coach: Noemie van Sinderen
+ * Arduino expert: Amaia
+ * Processing exert: Redmar
+ * Vrije keuze:
+
+### Team Thijs
+
+ * Coach: Thijs van Beers
+ * Arduino expert:
+ * Processing expert:
+ * Vrije keuze:
 
 ## Wie zijn er nog meer?
 

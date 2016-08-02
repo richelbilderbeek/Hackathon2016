@@ -2,7 +2,7 @@
 
 Hackathon georganiseerd de DJO en Fablab in de zomervakantie van 2016.
 
-Geef je op door een mailtje te sturen naar [Richel zijn emailadres](richelbilderbeek.nl/Email.png).
+Geef je op door een mailtje te sturen naar [Richel zijn emailadres](http://www.richelbilderbeek.nl/Email.png).
 
 ![Flyer](Flyer/Flyer.png)
 

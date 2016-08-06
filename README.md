@@ -1,6 +1,9 @@
 # Hackathon2016
 
+![Afgelast](Bericht.png)
+
 Hackathon georganiseerd de DJO en Fablab in de zomervakantie van 2016.
+Deze is afgelast en er wordt een nieuwe datum gekozen.
 
 Geef je op door een mailtje te sturen naar [Richel zijn emailadres](http://www.richelbilderbeek.nl/Email.png).
 
